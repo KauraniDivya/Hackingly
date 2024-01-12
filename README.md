@@ -60,7 +60,7 @@ The profile page is deployed, making it easily accessible for review and assessm
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/KauraniDivya/
+   git clone https://github.com/KauraniDivya/Hackingly_Assignment
    ```
 
 2. **Navigate to the project directory:**
@@ -86,13 +86,13 @@ The profile page is deployed, making it easily accessible for review and assessm
    npm start
    ```
 
-The application will be accessible at [http://localhost:3000](http://localhost:3000).
+The application will be accessible at [https://hackingly-assignment.vercel.app/](https://hackingly-assignment.vercel.app/).
 
 
 ## Contact
 
 Your Name - Divya Kaurani (https://www.linkedin.com/in/divyakaurani/)
 
-Project Link: [https://github.com/your-username/wikipedia-philosophy-tracker](https://github.com/your-username/wikipedia-philosophy-tracker)
+Project Link: [https://github.com/KauraniDivya/Hackingly_Assignment](https://github.com/KauraniDivya/Hackingly_Assignment)
 
 
