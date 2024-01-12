@@ -3,7 +3,7 @@
 
 Track the fascinating journey from any Wikipedia page to the ultimate destination - the "Philosophy" page.
 
-![Profile Page](./src/components/images/readme.jpeg)
+![Profile Page](https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/WhatsApp%20Image%202024-01-12%20at%2011.19.58%20PM.jpeg?alt=media&token=cc4cdab0-d822-4ad5-9187-9d2b80fc136b)
 
 ## Overview
 
@@ -54,7 +54,7 @@ The project has been optimized for speed, ensuring quick loading times and a smo
 
 The profile page is deployed, making it easily accessible for review and assessment.
 
-![Responsive Design](./src/components/images/responsive.jpeg) ![Clean UI](./src/components/images/cleanui.jpeg)
+![Responsive Design](https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/WhatsApp%20Image%202024-01-12%20at%2011.22.00%20PM.jpeg?alt=media&token=93c15678-ad47-4183-8686-c42580614197) ![Clean UI](./src/components/images/cleanui.jpeg)
 ## Installation
 
 1. **Clone the repository:**
